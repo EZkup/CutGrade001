@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int scannner = scanner.nextInt();
         if (scannner >= 50) {
-
+        System.out.println("1");
 
 
         }
